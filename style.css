@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+body{
+  width:100%;
+  height:100vh;
+}
+.machine{
+  background-image: url("https://images.freeimages.com/images/large-previews/27e/films-wheels-serie-2-1312863.jpg");
+  background-size:cover;
+  width: 80vw;
+  border-radius:10px;
+  padding:5vw;
+  margin:7em auto;
+}
+h1{
+  color: #1A3E4C;
+  font: 3em "abel";
+}
+p{
+  color: #1A3E4C;
+  font: 2.2em "abel";
+
+}
+#text {
+  background-color:white;
+  margin: 0 auto;
+  width: 50vw;
+  height:auto;
+  border:1px solid #295C70;
+  border-radius:5px;
+  padding:10px;
+  font-size:1.5em;
+  font-family: "raleway";
+  margin-top:7vh;
+  margin-bottom:5vh;
+}
+#author{
+  font-style:italic !important;}
+.btn{
+  font: 1.5em "abel";
+  color:#1A3E4C;
+}
+#tweet-quote{
+  margin-right:10vw;
+}
